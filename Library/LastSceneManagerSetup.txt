@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Environment_Free.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/ExplosiveLLC/RPG Character Mecanim Animation Pack FREE/Scenes/RPG-Character.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
